@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>815085930440-7f5t8phac2i9e8a4vbnion7rq54j01a1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.815085930440-7f5t8phac2i9e8a4vbnion7rq54j01a1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>815085930440-08eft7pb0hh2v9n0bo1jg7h5e794skhh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAMKyn82fhWUfDnrBdFDX_qMwdNrsB9xvI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>815085930440</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.myapp.Qhome</string>
+	<key>PROJECT_ID</key>
+	<string>qhome-43cdd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>qhome-43cdd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:815085930440:ios:0f1dd164dd30d834</string>
+	<key>DATABASE_URL</key>
+	<string>https://qhome-43cdd.firebaseio.com</string>
+</dict>
+</plist>

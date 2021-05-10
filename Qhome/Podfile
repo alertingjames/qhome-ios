@@ -1,0 +1,33 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '12.2'
+
+target 'Qhome' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Qhome
+
+pod 'Alamofire'
+pod 'SwiftyJSON'
+pod 'Firebase/Core'
+pod 'FirebaseMessaging'
+pod 'Firebase/Database'
+pod 'SQLite'
+pod 'FacebookCore'
+pod 'AccountKit'
+pod 'IQKeyboardManagerSwift'
+pod 'Toast-Swift'
+pod 'Kingfisher'
+pod 'YPImagePicker'
+pod 'MultiSlider'
+pod 'Cosmos'
+pod 'SCLAlertView'
+pod 'CountryPickerView'
+pod 'moa'
+pod 'Auk'
+pod 'DynamicBlurView'
+pod 'GSImageViewerController'
+pod 'SwiftGifOrigin'
+
+
+end
